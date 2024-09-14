@@ -1,0 +1,2 @@
+jvarkit/vcffilterso:
+  - "modules/nf-core/jvarkit/vcffilterso/**"
